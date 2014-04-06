@@ -1,0 +1,94 @@
+@charset "utf-8";
+.B_TABLE {
+	font-family: "돋움";
+	font-size: 10pt;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #3b5998;
+	margin: 0px;
+	padding: 0px;
+}
+.join_input {
+	padding: 5px;
+	height: 25px;
+	font-family: "돋움";
+	font-size: 12pt;
+	color: #666;
+	font-weight: bolder;
+}
+.btn_join {
+	font-family: "돋움";
+	font-size: 12pt;
+	height: 50px;
+	padding: 5px;
+	color: #666;
+	font-weight: bolder;
+}
+.input_search {
+	font-family: "돋움";
+	font-size: 11px;
+	color: #999;
+	height: 17px;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 3px;
+	padding-bottom: 0px;
+	padding-left: 3px;
+}
+.input_update {
+	font-family: "돋움";
+	font-size: 11px;
+	color: #999;
+	height: 20px;
+	padding-top: 0px;
+	padding-right: 3px;
+	padding-bottom: 0px;
+	padding-left: 3px;
+	width: 500px;
+	margin-top: 5px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-left: 3px;
+}
+.input_update2 {
+	font-family: "돋움";
+	font-size: 11px;
+	color: #999;
+	height: 100px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	width: 500px;
+	margin-top: 5px;
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-bottom: 3px;
+}
+.view_contents1 {
+	font-family: "돋움";
+	font-size: 11px;
+	color: #333;
+	margin: 3px;
+	padding: 2px;
+}
+.like {
+	font-family: "돋움";
+	font-size: 11px;
+	font-weight: bold;
+	color: #096;
+	text-decoration: none;
+}
+a {
+	font-family: "돋움";
+	font-weight: bolder;
+	color: #309;
+	text-decoration: none;
+}
+.view_profile {
+	font-family: "돋움";
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+}
